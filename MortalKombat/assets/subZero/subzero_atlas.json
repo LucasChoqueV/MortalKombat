@@ -1,0 +1,329 @@
+{
+    "frames": [
+        {
+            "filename": "subzero_idle_0",
+            "frame": {
+                "x": 75,
+                "y": 19,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_idle_1",
+            "frame": {
+                "x": 123,
+                "y": 19,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_idle_2",
+            "frame": {
+                "x": 170,
+                "y": 19,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_idle_3",
+            "frame": {
+                "x": 215,
+                "y": 19,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_idle_4",
+            "frame": {
+                "x": 262,
+                "y": 19,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_idle_5",
+            "frame": {
+                "x": 308,
+                "y": 19,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_idle_6",
+            "frame": {
+                "x": 355,
+                "y": 19,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_idle_7",
+            "frame": {
+                "x": 401,
+                "y": 19,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_idle_8",
+            "frame": {
+                "x": 449,
+                "y": 19,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_idle_9",
+            "frame": {
+                "x": 495,
+                "y": 19,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_walk_0",
+            "frame": {
+                "x": 73,
+                "y": 132,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_walk_1",
+            "frame": {
+                "x": 120,
+                "y": 131,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_walk_2",
+            "frame": {
+                "x": 170,
+                "y": 131,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_walk_3",
+            "frame": {
+                "x": 219,
+                "y": 131,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_walk_4",
+            "frame": {
+                "x": 270,
+                "y": 131,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_walk_5",
+            "frame": {
+                "x": 321,
+                "y": 131,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_walk_6",
+            "frame": {
+                "x": 370,
+                "y": 131,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_walk_7",
+            "frame": {
+                "x": 419,
+                "y": 131,
+                "w": 37,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_jump_0",
+            "frame": {
+                "x": 656,
+                "y": 187,
+                "w": 37,
+                "h": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_jump_1",
+            "frame": {
+                "x": 700,
+                "y": 187,
+                "w": 37,
+                "h": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_jump_2",
+            "frame": {
+                "x": 746,
+                "y": 187,
+                "w": 37,
+                "h": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_jump_3",
+            "frame": {
+                "x": 795,
+                "y": 187,
+                "w": 37,
+                "h": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_jump_4",
+            "frame": {
+                "x": 837,
+                "y": 187,
+                "w": 37,
+                "h": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_jump_5",
+            "frame": {
+                "x": 881,
+                "y": 187,
+                "w": 37,
+                "h": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_jump_6",
+            "frame": {
+                "x": 925,
+                "y": 187,
+                "w": 37,
+                "h": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ]
+}

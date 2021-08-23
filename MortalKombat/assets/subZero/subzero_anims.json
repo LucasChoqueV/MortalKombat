@@ -1,0 +1,128 @@
+{
+    "anims": [
+        {
+            "key": "subzero_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames":[
+                {
+                    "key": "subzero",
+                    "frame": "subzero_idle_0"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_idle_1"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_idle_2"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_idle_3"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_idle_4"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_idle_5"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_idle_6"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_idle_7"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_idle_8"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_idle_9"
+                }
+            ]
+        },
+        {
+            "key": "subzero_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames":[
+                {
+                    "key": "subzero",
+                    "frame": "subzero_walk_0"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_walk_1"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_walk_2"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_walk_3"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_walk_4"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_walk_5"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_walk_6"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_walk_7"
+                }
+            ]
+        },
+        {
+            "key": "subzero_jump",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames":[
+                {
+                    "key": "subzero",
+                    "frame": "subzero_jump_0"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_jump_1"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_jump_2"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_jump_3"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_jump_4"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_jump_5"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_jump_6"
+                }
+            ]
+        }
+    ]
+}

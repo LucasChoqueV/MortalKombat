@@ -1,0 +1,316 @@
+{
+    "frames": [
+        {
+            "filename": "scorpion_idle_0",
+            "frame": {
+                "x": 83,
+                "y": 17,
+                "w": 45,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_idle_1",
+            "frame": {
+                "x": 136,
+                "y": 17,
+                "w": 45,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_idle_2",
+            "frame": {
+                "x": 188,
+                "y": 17,
+                "w": 45,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_idle_3",
+            "frame": {
+                "x": 242,
+                "y": 17,
+                "w": 45,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_idle_4",
+            "frame": {
+                "x": 294,
+                "y": 17,
+                "w": 45,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_idle_5",
+            "frame": {
+                "x": 346,
+                "y": 17,
+                "w": 45,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_walk_0",
+            "frame": {
+                "x": 16,
+                "y": 131,
+                "w": 45,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_walk_1",
+            "frame": {
+                "x": 65,
+                "y": 131,
+                "w": 45,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_walk_2",
+            "frame": {
+                "x": 115,
+                "y": 131,
+                "w": 45,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_walk_3",
+            "frame": {
+                "x": 163,
+                "y": 131,
+                "w": 45,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_walk_4",
+            "frame": {
+                "x": 215,
+                "y": 131,
+                "w": 45,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_walk_5",
+            "frame": {
+                "x": 264,
+                "y": 131,
+                "w": 45,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_walk_6",
+            "frame": {
+                "x": 314,
+                "y": 131,
+                "w": 45,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_walk_7",
+            "frame": {
+                "x": 363,
+                "y": 131,
+                "w": 45,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_walk_8",
+            "frame": {
+                "x": 412,
+                "y": 131,
+                "w": 45,
+                "h": 105
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_jump_0",
+            "frame": {
+                "x": 656,
+                "y": 189,
+                "w": 40,
+                "h": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_jump_1",
+            "frame": {
+                "x": 700,
+                "y": 187,
+                "w": 40,
+                "h": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_jump_2",
+            "frame": {
+                "x": 746,
+                "y": 187,
+                "w": 40,
+                "h": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_jump_3",
+            "frame": {
+                "x": 795,
+                "y": 187,
+                "w": 40,
+                "h": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_jump_4",
+            "frame": {
+                "x": 836,
+                "y": 187,
+                "w": 40,
+                "h": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_jump_5",
+            "frame": {
+                "x": 879,
+                "y": 187,
+                "w": 40,
+                "h": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_jump_6",
+            "frame": {
+                "x": 925,
+                "y": 187,
+                "w": 40,
+                "h": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_down_0",
+            "frame": {
+                "x": 630,
+                "y": 42,
+                "w": 40,
+                "h": 75
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "scorpion_down_1",
+            "frame": {
+                "x": 692,
+                "y": 61,
+                "w": 40,
+                "h": 60
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ]
+}

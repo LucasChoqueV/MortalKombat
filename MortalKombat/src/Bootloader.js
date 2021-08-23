@@ -4,18 +4,24 @@ class Bootloader extends Phaser.Scene {
     }
 
     preload() {
-        console.log('Bootloader');
         this.load.setPath('./assets/');
+        this.load.image([
+            "background",
+            "floor"
+        ]);
+        
+        this.load.atlas("subzero", "subZero/subZero.png", "subZero/subzero_atlas.json");
+        this.load.animation("subzeroAnim", "subZero/subzero_anims.json");
 
-        this.load.image('logo_gamma', 'logo_gamma.png');
+        this.load.atlas("scorpion", "scorpion/scorpion.png", "scorpion/scorpion_atlas.json");
+        this.load.animation("scorpionAnim", "scorpion/scorpion_anims.json");
 
-        this.load.on('complete', () => {
-            console.log('Load complete');
-        });
+        this.load.on("complete", () => {
+            this.scene.start("Play");
+        })
     }
 
     create() {
-        this.add.image(this.scale.width / 2, this.scale.height / 2, 'logo_gamma');
     }
 }
 export default Bootloader;

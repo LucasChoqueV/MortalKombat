@@ -1,0 +1,132 @@
+{
+    "anims": [
+        {
+            "key": "scorpion_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames":[
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_idle_0"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_idle_1"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_idle_2"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_idle_3"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_idle_4"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_idle_5"
+                }
+            ]
+        },
+        {
+            "key": "scorpion_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames":[
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_walk_0"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_walk_1"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_walk_2"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_walk_3"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_walk_4"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_walk_5"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_walk_6"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_walk_7"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_walk_8"
+                }
+            ]
+        },
+        {
+            "key": "scorpion_jump",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames":[
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_jump_0"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_jump_1"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_jump_2"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_jump_3"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_jump_4"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_jump_5"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_jump_6"
+                }
+            ]
+        },
+        {
+            "key": "scorpion_down",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames":[
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_down_0"
+                },
+                {
+                    "key": "scorpion",
+                    "frame": "scorpion_down_1"
+                }
+            ]
+        }
+    ]
+}

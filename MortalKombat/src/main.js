@@ -1,4 +1,5 @@
 import Bootloader from './Bootloader.js';
+import Play from './scenes/Play.js';
 
 const config = {
     title: "MortalKombat",
@@ -18,11 +19,14 @@ const config = {
         "arcade": {
             gravity: {
                 y: 500
-            }
+            },
+            debug: true,
+
         }
     },
     scene: [
-        Bootloader
+        Bootloader,
+        Play,
     ]
 };
 
