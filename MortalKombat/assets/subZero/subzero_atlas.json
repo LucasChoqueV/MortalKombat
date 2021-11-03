@@ -324,6 +324,84 @@
                 "x": 0.5,
                 "y": 0.5
             }
+        },
+        {
+            "filename": "subzero_high_kick_0",
+            "frame": {
+                "x": 17,
+                "y": 470,
+                "w": 45,
+                "h": 109 
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_high_kick_1",
+            "frame": {
+                "x": 63,
+                "y": 470,
+                "w": 45,
+                "h": 109
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_high_kick_2",
+            "frame": {
+                "x": 113,
+                "y": 470,
+                "w": 45,
+                "h": 109
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_high_kick_3",
+            "frame": {
+                "x": 159,
+                "y": 470,
+                "w": 70,
+                "h": 109
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_high_kick_4",
+            "frame": {
+                "x": 239,
+                "y": 470,
+                "w": 45,
+                "h": 109
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "subzero_high_kick_5",
+            "frame": {
+                "x": 286,
+                "y": 470,
+                "w": 45,
+                "h": 109
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
         }
     ]
 }

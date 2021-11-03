@@ -123,6 +123,42 @@
                     "frame": "subzero_jump_6"
                 }
             ]
+        },
+        {
+            "key": "subzero_high_kick",
+            "type": "frames",
+            "repeat": 0,
+            "frameRate": 15,
+            "frames":[
+                {
+                    "key": "subzero",
+                    "frame": "subzero_high_kick_0"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_high_kick_1"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_high_kick_2"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_high_kick_3"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_high_kick_4"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_high_kick_5"
+                },
+                {
+                    "key": "subzero",
+                    "frame": "subzero_high_kick_6"
+                }
+            ]
         }
     ]
 }
